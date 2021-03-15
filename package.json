@@ -1,0 +1,8 @@
+{
+  "name": "script-backup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrozez/script-backup.git",
+  "author": "Pedro Ferreira <pedroferreirazez@gmail.com>",
+  "license": "MIT"
+}
