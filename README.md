@@ -36,3 +36,7 @@ This is a script for a server backup
 
 ---
 Made with ♥ by pedrozez :wave: [Get in touch!](https://www.linkedin.com/in/pedro-ferreira-b385131a2/)
+
+- Requerimentos:
+
+- [ ] Verificar o data a cada hora e ver se existe a pasta correspondente a esta data. ( se nao existir a pasta faça o backup )
