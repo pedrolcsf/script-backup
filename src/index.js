@@ -19,7 +19,7 @@ const ssh = new NodeSSH();
 // algoratimo que rodara a cada x tempo
     setInterval(() => {
      //Mês atual
-    var atualMonth = getMonth(new Date()) + 2; 
+    var atualMonth = getMonth(new Date()) + 1; 
     var atualYear = getYear(new Date());
     console.log(atualYear)
 
@@ -37,5 +37,5 @@ const ssh = new NodeSSH();
         });
       }
     });
-}, 2000);
+}, 3600000);
 });
